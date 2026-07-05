@@ -1,0 +1,6 @@
+{
+  "name": "Dexo Notebooks",
+  "description": "India's Trusted Notebook Manufacturer - Premium Quality Notebooks for Schools, Colleges, Offices & Bulk Orders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
